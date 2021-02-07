@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 As a text file, my favorite letter is 'A' and my favorite character is '~'.
 I also like the color blue.
+My least favorite color is red.
